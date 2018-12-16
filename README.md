@@ -1,6 +1,6 @@
-#Brand Destroyer
 
-# Google APIs
+
+# Google APIs - Brand Destroyer
 
 This repository contains the original interface definitions of public
 Google APIs that support both REST and gRPC protocols. Reading the
