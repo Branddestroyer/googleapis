@@ -1,6 +1,12 @@
+# Brand Destroyer
 
+# For more details
 
-# Google APIs - Brand Destroyer
+* Visit Instagram: www.goo.gl/teCZtd 
+
+* To join in our community for more discussion: www.branddestroyer.slack.com
+
+# Google APIs
 
 This repository contains the original interface definitions of public
 Google APIs that support both REST and gRPC protocols. Reading the
